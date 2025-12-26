@@ -21,6 +21,6 @@ else:
     print("ODD")
 ```
 ## Output
-![alt text](image-4.png)
+![alt text](image.png)
 ## Result
 The program successfully checks whether the given number is even or odd using an if...else statement.

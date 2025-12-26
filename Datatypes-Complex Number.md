@@ -24,6 +24,6 @@ print(x.imag)
 ```
 
 ## Output
-![alt text](image-1.png)
+![alt text](image-3.png)
 ## Result
 The program successfully reads two integers, creates a complex number, and prints the complex number along with its real and imaginary parts.

@@ -28,6 +28,6 @@ print("d:", d)
 ```
 
 ## Output
-![alt text](image-3.png)
+![alt text](image-1.png)
 ## Result
 The program successfully evaluates boolean and arithmetic expressions involving True and False and prints the correct results.

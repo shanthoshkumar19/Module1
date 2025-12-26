@@ -14,6 +14,6 @@ men_stepped_on_the_moon = input()
 print(men_stepped_on_the_moon)
 ```
 ## Output
-![alt text](image.png)
+![alt text](image-4.png)
 ## Result
 The Python program successfully reads a string from the user and prints the same string as output.
